@@ -1,1 +1,2 @@
 readme
+updated usging github
